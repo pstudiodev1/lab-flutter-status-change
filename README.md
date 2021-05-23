@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+![Simulator Screen Shot - iPad Pro (12 9-inch) (5th generation) - 2021-05-24 at 00 37 38](https://user-images.githubusercontent.com/13503510/119270740-51155b80-bc28-11eb-94af-2428cd3ed7e6.png)
